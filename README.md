@@ -13,6 +13,14 @@ Content, Practices and Projects related to data structure &amp; algorithm--imple
 2.5 Algorithmic Complexity
    
 3. Stacks
+3.1 General Symbol Balancing
+3.2 Stacks
+3.3 Dec to Any Base
+3.4 infix to postfix 2
+3.5 Infix to Postfix Expressions
+3.6 Simple Balanced Parentheses
+3.7 Dec to Bin
+
 
 4. Queues 
 5. Deques
