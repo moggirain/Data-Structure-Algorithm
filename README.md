@@ -6,11 +6,11 @@ Content, Practices and Projects related to data structure &amp; algorithm--imple
 1. Runtime Plot 
 
 2. Runtime Analysis
-   2.1 Complexity Curves
-   2.2 Anagram Checking
-   2.3 Anagrams (Prime)
-   2.4 Timing Examples
-   2.5 Algorithmic Complexity
+2.1 Complexity Curves
+2.2 Anagram Checking
+2.3 Anagrams (Prime)
+2.4 Timing Examples
+2.5 Algorithmic Complexity
    
 3. Stacks
 
