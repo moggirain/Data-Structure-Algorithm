@@ -2,18 +2,17 @@
 Content, Practices and Projects related to data structure &amp; algorithm--implemented in Python 
 
 
-
 1. Runtime Plot 
 
-2. Runtime Analysis 
-2.1 Complexity Curves
-2.2 Anagram Checking
-2.3 Anagrams (Prime)
-2.4 Timing Examples
-2.5 Algorithmic Complexity
+2. Runtime Analysis <br>
+2.1 Complexity Curves <br>
+2.2 Anagram Checking <br>
+2.3 Anagrams (Prime) <br>
+2.4 Timing Examples <br>
+2.5 Algorithmic Complexity <br>
    
-3. Stacks
-3.1 General Symbol Balancing
+3. Stacks <br>
+3.1 General Symbol Balancing <br>
 3.2 Stacks
 3.3 Dec to Any Base
 3.4 infix to postfix 2
